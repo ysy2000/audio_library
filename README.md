@@ -1,7 +1,7 @@
 # audio_library
 
-you need to know NumPy.
-
+Basically, you need to know NumPy.
+## things I deal with
 ### 1. Librosa
 ### 2. PySoundFile
 ### 3. PyAudio
